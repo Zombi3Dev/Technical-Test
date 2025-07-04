@@ -1,0 +1,12 @@
+Timesheet system notes
+
+Preffered development ideas:
+Development improvements:
+1) The initial intent was to use a light weight sql db as part of the in-memory aspect with 
+	*Entity framework
+	*Repository design pattern -> where I would have created the ef operations and handled the db objects.
+2) Dependency injection by adding a scopped to the middleware and inject the functioanlity to the controller
+3) Stored procedures which would handle the CRUD aoperations 
+4) An interactive/ reactive webpage where if things were changed the page wouldn't need to refresh
+Testing
+1) I would have like to have used moq, and implement a more detailed TTD workflow.

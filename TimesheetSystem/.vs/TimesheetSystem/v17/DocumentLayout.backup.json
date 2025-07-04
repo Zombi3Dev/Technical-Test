@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F77F9E2-90B6-4973-A238-E88A5F37EC6A}|TimesheetSystem\\TimesheetSystem.csproj|c:\\users\\nadi_\\documents\\dev\\c#\\technical-test\\timesheetsystem\\timesheetsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F77F9E2-90B6-4973-A238-E88A5F37EC6A}|TimesheetSystem\\TimesheetSystem.csproj|solutionrelative:timesheetsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F77F9E2-90B6-4973-A238-E88A5F37EC6A}|TimesheetSystem\\TimesheetSystem.csproj|c:\\users\\nadi_\\documents\\dev\\c#\\technical-test\\timesheetsystem\\timesheetsystem\\models\\timesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F77F9E2-90B6-4973-A238-E88A5F37EC6A}|TimesheetSystem\\TimesheetSystem.csproj|solutionrelative:timesheetsystem\\models\\timesheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D00EA9E-1E32-4F23-AD2C-736F2F7B377B}|TimeSheetSystemTest\\TimeSheetSystemTest.csproj|c:\\users\\nadi_\\documents\\dev\\c#\\technical-test\\timesheetsystem\\timesheetsystemtest\\timesheetfunctionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D00EA9E-1E32-4F23-AD2C-736F2F7B377B}|TimeSheetSystemTest\\TimeSheetSystemTest.csproj|solutionrelative:timesheetsystemtest\\timesheetfunctionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F77F9E2-90B6-4973-A238-E88A5F37EC6A}|TimesheetSystem\\TimesheetSystem.csproj|c:\\users\\nadi_\\documents\\dev\\c#\\technical-test\\timesheetsystem\\timesheetsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F77F9E2-90B6-4973-A238-E88A5F37EC6A}|TimesheetSystem\\TimesheetSystem.csproj|solutionrelative:timesheetsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F77F9E2-90B6-4973-A238-E88A5F37EC6A}|TimesheetSystem\\TimesheetSystem.csproj|c:\\users\\nadi_\\documents\\dev\\c#\\technical-test\\timesheetsystem\\timesheetsystem\\businesslogic\\timesheetactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F77F9E2-90B6-4973-A238-E88A5F37EC6A}|TimesheetSystem\\TimesheetSystem.csproj|solutionrelative:timesheetsystem\\businesslogic\\timesheetactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F77F9E2-90B6-4973-A238-E88A5F37EC6A}|TimesheetSystem\\TimesheetSystem.csproj|c:\\users\\nadi_\\documents\\dev\\c#\\technical-test\\timesheetsystem\\timesheetsystem\\models\\timesheetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F77F9E2-90B6-4973-A238-E88A5F37EC6A}|TimesheetSystem\\TimesheetSystem.csproj|solutionrelative:timesheetsystem\\models\\timesheetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F77F9E2-90B6-4973-A238-E88A5F37EC6A}|TimesheetSystem\\TimesheetSystem.csproj|c:\\users\\nadi_\\documents\\dev\\c#\\technical-test\\timesheetsystem\\timesheetsystem\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F77F9E2-90B6-4973-A238-E88A5F37EC6A}|TimesheetSystem\\TimesheetSystem.csproj|solutionrelative:timesheetsystem\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F77F9E2-90B6-4973-A238-E88A5F37EC6A}|TimesheetSystem\\TimesheetSystem.csproj|c:\\users\\nadi_\\documents\\dev\\c#\\technical-test\\timesheetsystem\\timesheetsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F77F9E2-90B6-4973-A238-E88A5F37EC6A}|TimesheetSystem\\TimesheetSystem.csproj|solutionrelative:timesheetsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimesheetSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TimesheetSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimesheetSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TimesheetSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T21:07:43.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Timesheet.cs",
+              "DocumentMoniker": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimesheetSystem\\Models\\Timesheet.cs",
+              "RelativeDocumentMoniker": "TimesheetSystem\\Models\\Timesheet.cs",
+              "ToolTip": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimesheetSystem\\Models\\Timesheet.cs",
+              "RelativeToolTip": "TimesheetSystem\\Models\\Timesheet.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:37:43.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimesheetFunctionality.cs",
+              "DocumentMoniker": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimeSheetSystemTest\\TimesheetFunctionality.cs",
+              "RelativeDocumentMoniker": "TimeSheetSystemTest\\TimesheetFunctionality.cs",
+              "ToolTip": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimeSheetSystemTest\\TimesheetFunctionality.cs",
+              "RelativeToolTip": "TimeSheetSystemTest\\TimesheetFunctionality.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:18:27.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimesheetActions.cs",
+              "DocumentMoniker": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimesheetSystem\\BusinessLogic\\TimesheetActions.cs",
+              "RelativeDocumentMoniker": "TimesheetSystem\\BusinessLogic\\TimesheetActions.cs",
+              "ToolTip": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimesheetSystem\\BusinessLogic\\TimesheetActions.cs",
+              "RelativeToolTip": "TimesheetSystem\\BusinessLogic\\TimesheetActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:35:45.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimesheetSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TimesheetSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimesheetSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TimesheetSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:34:43.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimesheetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimesheetSystem\\Models\\TimesheetViewModel.cs",
+              "RelativeDocumentMoniker": "TimesheetSystem\\Models\\TimesheetViewModel.cs",
+              "ToolTip": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimesheetSystem\\Models\\TimesheetViewModel.cs",
+              "RelativeToolTip": "TimesheetSystem\\Models\\TimesheetViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:32:51.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimesheetSystem\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "TimesheetSystem\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimesheetSystem\\Models\\Person.cs",
+              "RelativeToolTip": "TimesheetSystem\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:37:32.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimesheetSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TimesheetSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\nadi_\\Documents\\Dev\\C#\\Technical-Test\\TimesheetSystem\\TimesheetSystem\\Program.cs",
+              "RelativeToolTip": "TimesheetSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:20:58.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
