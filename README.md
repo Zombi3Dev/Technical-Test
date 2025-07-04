@@ -1,6 +1,6 @@
 # Technical-Test
 Technical Test, timesheet application with unit test 
-
+Note: Within the project is a file named TestNotes which expands further technical notes.
 Project state:
 * Created an MVC dotnet core project
 1) Created moc data which was passed through the controller to the view
